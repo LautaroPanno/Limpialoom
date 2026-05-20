@@ -8,6 +8,12 @@ El proyecto fue diseñado con un enfoque moderno, visual y responsive, buscando 
 
 ![Screenshot](multimedia/screen.png)
 
+
+## Demo
+
+🌐 https://limpialoom.vercel.app/
+
+
 ## Características
 
 - Diseño responsive para distintos dispositivos
@@ -29,11 +35,3 @@ El proyecto fue diseñado con un enfoque moderno, visual y responsive, buscando 
 - Bootstrap Icons
 - Google Fonts
 - Vercel
-
-## Demo
-
-🌐 https://limpialoom.vercel.app/
-
-## Repositorio
-
-📦 https://github.com/LautaroPanno/Limpialoom-Web
