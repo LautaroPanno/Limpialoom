@@ -1,26 +1,39 @@
-Limpialoom Web
+## Limpialoom Web
 
-Proyecto final de Desarrollo Web orientado a la creación de un e-commerce de productos de limpieza.
+Limpialoom Web es un sitio web desarrollado para un emprendimiento de limpieza especializado en sillones, alfombras, colchones y cortinas.
 
-El sitio fue desarrollado con enfoque responsive, priorizando una navegación clara y una estructura visual moderna para mejorar la experiencia del usuario.
+El proyecto fue diseñado con un enfoque moderno, visual y responsive, buscando transmitir una imagen profesional del servicio y facilitar el acceso a la información para potenciales clientes.
 
-Tecnologías utilizadas
-HTML5
-CSS3
-SCSS
-Bootstrap
-Funcionalidades
-Catálogo de productos
-Navegación entre secciones
-Diseño responsive
-Estructura de e-commerce
-Interfaz adaptable a distintos dispositivos
-Deploy
+## Preview
 
-Proyecto desplegado en Vercel:
+![Screenshot](multimedia/screen.png)
 
-https://proyectofinal-dw-panno.vercel.app/index.html
+## Características
 
-Autor
+- Diseño responsive para distintos dispositivos
+- Landing page moderna y minimalista
+- Navegación simple e intuitiva
+- Secciones informativas de servicios
+- Uso de Bootstrap para maquetado responsive
+- Estilos personalizados con CSS
+- Deploy online con Vercel
 
-Lautaro Panno
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- Bootstrap 5
+
+## Librerías y herramientas
+
+- Bootstrap Icons
+- Google Fonts
+- Vercel
+
+## Demo
+
+🌐 https://limpialoom.vercel.app/
+
+## Repositorio
+
+📦 https://github.com/LautaroPanno/Limpialoom-Web
